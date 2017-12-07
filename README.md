@@ -1,4 +1,4 @@
-# Godaddy Proxy
+# GoDaddy Proxy
 Google cloud function for GoDaddy queries. To be used in conjunction with [Name Hacker](https://github.com/kolloldas/Namehacker)
 
 ### What does it do?
