@@ -1,0 +1,15 @@
+{
+  "name": "cf-godaddy-proxy",
+  "version": "1.0.0",
+  "description": "Godaddy proxy cloud function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kolloldas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "requestify": "^0.2.5"
+  }
+}
